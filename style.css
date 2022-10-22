@@ -123,28 +123,3 @@ li {
 }   
 
 
-@media only screen and (min-width: 768px) {
-    .content {
-        padding: 20%
-    }
-    .card-image > img {
-        width: 65%;
-    }
-    .title > h2 {
-        font-size: 35px;
-    }
-    .title > h2::first-letter {
-        color: yellow;
-        font-size: 50px;
-    }
-    .title > span {
-        font-size: 25px;
-    }
-    .btn > button {
-        padding: 20px 40px 20px 40px;
-        font-size: 24px;
-    }
-    .contact-links > ul > li > a > img{
-        width: 40px;
-    }
-};  
